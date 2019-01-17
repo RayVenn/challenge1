@@ -1,4 +1,6 @@
 # How to run this app
+
+**This is for python3, so make sure you are using python3** 
 ### 1. Use Python PEX file
   * For linux OS,
   

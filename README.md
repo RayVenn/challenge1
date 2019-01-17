@@ -18,7 +18,7 @@
     `docker build -t challenge:1 .`
   * Run this docker container:
   
-    `docker run -p 5000:8080 challenge:1`
+    `docker run -p 8080:8080 challenge:1`
   * Open another terminal, and run the curl command:
   
     `curl -X POST -H "Content-Type: application/json" -d '{"message": "foo"}' http://localhost:8080/messages`

@@ -2,6 +2,10 @@
 
 **This is for python3, so make sure you are using python3** 
 ### 1. Use Python PEX file
+  * Checkout this repo:
+  
+    `git clone https://github.com/RayVenn/challenge2.git`
+  * Go into project, `cd challenge2`
   * For linux OS,
   
     `./challenge1-linux.pex`
